@@ -2,3 +2,6 @@
 - A New Kind of Genome Editing Is Here to Fine-Tune DNA - https://www.wired.com/story/a-new-kind-of-genome-editing-is-here-to-fine-tune-dna/?utm_medium=social&utm_brand=wired&mbid=social_twitter&utm_source=twitter&utm_social-type=owned
 - Current Understanding of the History, Global Spread, Ecology, Evolution and Management of the Corn Bacterial Leaf Streak Pathogen, Xanthomonas vasicola pv. vasculorium
 - The Sophisticated Transcriptional Response Governed by Transposable Elements in Human Health and Disease
+- SPRITE: a genome-wide method for mapping higher-order 3D interactions in the nucleus using combinatorial split-and-pool barcoding
+- The EccDNA Replicon: A Heritable, Extranuclear Vehicle That Enables Gene Ampli!cation and Glyphosate Resistance in Amaranthus palmeri
+- cis-Regulatory Elements and Chromatin State Coordinately Control Temporal and Spatial Expression of FLOWERING LOCUS T in Arabidopsis
